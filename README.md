@@ -1,1 +1,1 @@
-# find-github-users
+# Find Github Users
